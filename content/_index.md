@@ -1,17 +1,9 @@
 ---
-title: My Site
+title: teste
 toc: false
 ---
 
-This is the landing page.
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+## 2025 - September
+- [teste](/2025/9/14/teste)
+- [teste_1](/2025/9/14/teste_1)
