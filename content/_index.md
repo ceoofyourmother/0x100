@@ -1,5 +1,5 @@
 ---
-title: teste
+title: Posts
 toc: false
 ---
 
