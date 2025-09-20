@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 0x100
+title: "0x100"
 
 # import hextra as module
 module:
